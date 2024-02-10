@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    background:  linear-gradient(rgba(0, 0, 0, 0.438), rgba(0, 0, 0, 0.452)), url("./picture/head.jpg");
+    width: 100%;
+    height: 730px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover, cover;
+    color: white;
+    padding: 100px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.head-two{
+    font-size: 25px;
+    margin-top: 90px;
+}
+
+.head-three{
+    font-size: 30px;
+    margin-top: 90px;
+}
+
+.head .btn{
+    margin-top: 50px;
+}
+
+.head .btn p{
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    padding-top: 13px;
+    width: 200px;
+    height: 50px;
+}
+
+.head-one h3{
+    display: inline-block;
+}
+
+.section-one{
+    background: linear-gradient(rgba(0, 0, 0, 0.523), rgba(221, 160, 221, 0.642));
+    color: white;
+    text-align: center;
+    padding: 150px;
+}
+
+.section-one .btn{
+    
+}
+
+.section-one .btn p{
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    padding-top: 13px;
+    margin: 50px 500px;
+    width: 200px;
+    height: 50px;
+}
+
+.home-sale{
+    text-align: center;
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.pictures .sale{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+ 
